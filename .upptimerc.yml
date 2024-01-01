@@ -7,12 +7,14 @@ sites:
     url: https://nattawatt.com
   - name: Linktree
     url: https://tree.nattawatt.com
-  - name: Profile
-    url: https://profile.nattawatt.com
+  - name: ProJect list
+    url: https://project.nattawatt.com
   - name: Christmas Countdown
     url: https://christmas.nattawatt.com
   - name: Newyear Countdown
     url: https://newyear.nattawatt.com
+  - name: Discord Bot Web
+    url: https://discord.nattawatt.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
