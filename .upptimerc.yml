@@ -15,6 +15,8 @@ sites:
     url: https://newyear.nattawatt.com
   - name: Discord Bot Web
     url: https://discord.nattawatt.com
+  - name: Nah
+    url: https://profile.nattawatt.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
