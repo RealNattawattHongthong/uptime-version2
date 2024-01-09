@@ -17,10 +17,6 @@ sites:
     url: https://discord.nattawatt.com
   - name: Archive Webpage
     url: https://archive.nattawatt.com
-  - name: Christmas Countdown Webpage
-    url: https://christmas.nattawatt.com
-  - name: Newyear Countdown Webpage
-    url: https://newyear.nattawatt.com
   - name: Thaiquote
     url: https://thaiquote.nattawatt.com
 status-website:
