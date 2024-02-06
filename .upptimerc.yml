@@ -16,7 +16,7 @@ sites:
   - name: Discord Bot Web
     url: https://discord.nattawatt.com
   - name: Archive Webpage
-    url: https://archiv.nattawatt.com
+    url: https://archive.nattawatt.com
   - name: Thaiquote
     url: https://thaiquote.nattawatt.com
 status-website:
