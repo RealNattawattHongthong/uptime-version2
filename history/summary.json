@@ -79,18 +79,20 @@
     "url": "https://newyear.nattawatt.com",
     "icon": "https://icons.duckduckgo.com/ip3/newyear.nattawatt.com.ico",
     "slug": "newyear-countdown",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 123,
-    "timeWeek": 226,
-    "timeMonth": 173,
+    "timeDay": 133,
+    "timeWeek": 216,
+    "timeMonth": 172,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-20": 0
+    }
   },
   {
     "name": "Discord Bot Web",
