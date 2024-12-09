@@ -4,7 +4,7 @@
     "url": "https://nattawatt.com",
     "icon": "https://icons.duckduckgo.com/ip3/nattawatt.com.ico",
     "slug": "main-webpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.74%",
@@ -16,6 +16,7 @@
     "timeMonth": 262,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2024-12-09": 0,
       "2024-12-04": 839,
       "2024-12-03": 196,
       "2024-06-17": 81,
