@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nattawatt.com.ico",
     "slug": "main-webpage",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.16%",
-    "time": 320,
-    "timeDay": 793,
-    "timeWeek": 2896,
-    "timeMonth": 1443,
-    "timeYear": 350,
+    "time": 321,
+    "timeDay": 865,
+    "timeWeek": 2908,
+    "timeMonth": 1440,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2025-01-31": 65,
       "2025-01-07": 37,
@@ -43,10 +43,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 170,
-    "timeDay": 130,
-    "timeWeek": 200,
+    "timeDay": 208,
+    "timeWeek": 201,
     "timeMonth": 177,
-    "timeYear": 170,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2024-12-04": 532
     }
@@ -63,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 165,
-    "timeDay": 161,
-    "timeWeek": 197,
-    "timeMonth": 179,
+    "timeDay": 137,
+    "timeWeek": 195,
+    "timeMonth": 180,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2024-12-04": 532
@@ -83,8 +83,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 174,
-    "timeDay": 140,
-    "timeWeek": 174,
+    "timeDay": 204,
+    "timeWeek": 185,
     "timeMonth": 288,
     "timeYear": 175,
     "dailyMinutesDown": {
@@ -103,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 158,
-    "timeDay": 137,
-    "timeWeek": 148,
-    "timeMonth": 169,
+    "timeDay": 188,
+    "timeWeek": 154,
+    "timeMonth": 170,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2024-12-04": 532
@@ -123,10 +123,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 157,
-    "timeDay": 93,
-    "timeWeek": 168,
-    "timeMonth": 161,
-    "timeYear": 157,
+    "timeDay": 231,
+    "timeWeek": 183,
+    "timeMonth": 163,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2024-12-04": 532
     }
@@ -143,9 +143,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 152,
-    "timeDay": 165,
-    "timeWeek": 172,
-    "timeMonth": 159,
+    "timeDay": 222,
+    "timeWeek": 188,
+    "timeMonth": 161,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2024-12-04": 532
@@ -163,10 +163,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 156,
-    "timeDay": 136,
-    "timeWeek": 191,
+    "timeDay": 197,
+    "timeWeek": 204,
     "timeMonth": 159,
-    "timeYear": 155,
+    "timeYear": 156,
     "dailyMinutesDown": {
       "2024-12-04": 532
     }
